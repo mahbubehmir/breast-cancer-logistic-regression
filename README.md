@@ -66,6 +66,10 @@ jupyter notebook j4.cancer.ipynb
 ---
 
 **نویسنده:** Mahboubeh
+### 📫 راه‌های ارتباطی با من
 
-**تماس:** niayeshmirshekar92@gmail.com
+- 📧 ایمیل: [niayeshmirshekar92@gmail.com](mailto:niayeshmirshekar92@gmail.com)
+- 💼 لینکدین: [Mahboubeh Mirshekar](https://www.linkedin.com/in/mahbubeh-mirshekar-999640170)
+- اینستاگرام: airobo.project
+  کانال تلگرام:airobo_project
 
